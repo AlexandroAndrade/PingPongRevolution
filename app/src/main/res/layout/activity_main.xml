@@ -16,5 +16,5 @@
         android:textSize="20dp"
         android:layout_centerHorizontal="true"
         android:textStyle="bold"
-        android:text="Ping Pong Revolution Hello World !!!" />
+        android:text="Ping Pong Revolution Hello World !" />
 </RelativeLayout>
